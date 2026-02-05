@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec.bak
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de datos temporales/cache
+*.pkl
+*.pickle
+
+# Logs
+*.log
+
+# Archivos Excel de datos (opcional - descomenta si no quieres subirlos)
+# data/*.xlsx
+
+# Instalador generado
+dist_installer/
