@@ -35,8 +35,8 @@ desktop.ini
 # Logs
 *.log
 
-# Archivos Excel de datos (opcional - descomenta si no quieres subirlos)
-# data/*.xlsx
+# Archivos Excel de datos sensibles
+data/*.xlsx
 
 # Instalador generado
 dist_installer/
